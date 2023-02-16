@@ -241,6 +241,14 @@ equal death and birth rates»
 ## Задача 136  
 Рустем Исламов
 
+## Задача 137
+* **Задача:** Binary Neural Networks. Lossless picture quality for binary neural networks in pixel-level tasks. (Бинарные сети в img-to-img задачах)
+* **Авторы:** Илья Жариков
+
+## Задача 138
+* **Задача:** Post Training Quantization. Flexible continuous modification for SOTA post training quantization methods to make them lossless.
+* **Авторы:** Илья Жариков
+
 ## Problem template (EN)
 ## Problem 101
 * __Title__: Title
