@@ -131,7 +131,6 @@ equal death and birth rates»
 ## Задача 126
 * **Название:** Детекция изменения стиля машинной генерации
 * **Описание проблемы:** Требуется предложить метод детекции 
-* **Данные:** Выборка для аппроксимации представлена в работе J. Berezutskay, в которой присутствуют различные типы параллельных сигналов.
 * **Литература:**
 	- G. Gritsay, A. Grabovoy, Y. Chekhovich. Automatic Detection of Machine Generated Texts: Need More Tokens // Ivannikov Memorial Workshop (IVMEM), 2022.
 	- M. Kuznetsov, A. Motrenko, R. Kuznetsova, V. Strijov. Methods for intrinsic plagiarism detection and author diarization // Working Notes of CLEF, 2016, 1609 : 912-919.
