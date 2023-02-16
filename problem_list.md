@@ -269,6 +269,15 @@ equal death and birth rates»
 * **Задача:** Post Training Quantization. Flexible continuous modification for SOTA post training quantization methods to make them lossless.
 * **Авторы:** Илья Жариков
 
+## Задача 139
+ * **Название**: Дистилляция моделей на многодоменных выборках.
+ * **Задача**: Исследуется проблема понижения сложности аппроксимирующей модели при переносе на новые данные меньшей мощности.
+ * **Данные**: Выборки MNIST, CIFAR-10, CIFAR-100, Amazon товары.
+ * **Литература**: 
+ - [Диплом: Камил Баязитов](https://arxiv.org/pdf/1806.00258.pdf https://arxiv.org/pdf/1806.00258.pdf)
+ * **Базовой алгоритм**: Базовое решение и эксперименты представлены в дипломе.
+ * **Авторы:** Грабовой Андрей
+
 ## Problem template (EN)
 ## Problem 101
 * __Title__: Title
