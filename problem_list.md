@@ -239,7 +239,16 @@ equal death and birth rates»
 * **Авторы**: Полина Барабанщикова 
 
 ## Задача 136  
-Рустем Исламов
+* **Title:** Stochastic Newton with Arbitrary Sampling
+* **Problem:** We analyze second order methods solving Empirical Risk Minimization problem of the form min f(x) in R^d. Here x is a parameter vector of some Machine Learning model, f_i(x) is a loss function on i-th training point (a_i,b_i). Our desire to solve it using Newton-type method that requires access to only one data point per iteration. We investigate different sampling strategies of index i_k on iteration k. See description in PDF.
+* **Dataset:** It is proposed to use open SVM library as a data for experimental part of the work.
+* **References:**
+	- Stochastic Newton and Cubic Newton Methods with Simple Local Linear-Quadratic Rates
+        - Parallel coordinate descent methods for big data optimization
+* **Base algorithm:** As a base method it is proposed to use Algorithm 1 from the paper Stochastic Newton and Cubic Newton Methods with Simple Local Linear-Quadratic Rates.
+* **Solution:** Is is proposed to adjust existing sampling strategies from Parallel coordinate descent methods for big data optimization in this work.
+* **Novelty:** In the literature of Second Order methods there are a few works on incremental methods. The idea is to analyze the existing method by applying different sampling strategies. It is known that the proper sampling strategies may improve the performance of a method.
+* **Authors:** Islamov Rustem, Vadim Strijov
 
 ## Задача 137
 * **Задача:** Binary Neural Networks. Lossless picture quality for binary neural networks in pixel-level tasks. (Бинарные сети в img-to-img задачах)
