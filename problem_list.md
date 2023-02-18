@@ -341,10 +341,9 @@ equal death and birth rates»
 *  **Решение:** Предлагаемый метод заключается в использовании дифференцируемого алгоритма поиска архитектуры нейросети(FBNet) с контролем сложности параметров при помощи гиперсети. Гиперсеть - это модель, порождающая структуру модели в зависимости от входных параметров. В качестве параметров гиперсети предлагается использовать нормированное время работы базовых операций на целевых вычислительных ресурсах. Таким образом, полученная модель позволит адаптировать архитектуру модели для произвольного устройства.
 Новизна: предложенный метод позволяет контролировать сложность модели, в процессе поиска архитектуры без дополнительных эвристик.
 *  **Авторы:** Константин Яковлев, Олег Бахтеев
-
 ## Problem 141
 * __Title__: Metric analysis of deep network space parameters
-* __Problem__: The structure of a neral work is exhaustive. The dimensionality of the parameter space should be reduced. The autiencoder in the subject of the investigation. Due to the continous-time nature of the data we analyse several types of autoencoders. We reconstruct spatial-time data, minimizing the error. 
+* __Problem__: The structure of a neural work is exhaustive. The dimensionality of the parameter space should be reduced. The autoencoder in the subject of the investigation. Due to the continuous-time nature of the data, we analyze several types of autoencoders. We reconstruct spatial-time data, minimizing the error. 
 * __Data__: 
 	* Synthetic data sine for 2D visualizaion of the parameter distributions
 	* Accelerometer quasiperiodic data
@@ -357,12 +356,23 @@ equal death and birth rates»
 	* [Variational autoencoders to estimate parameters](https://arxiv.org/pdf/1606.05908.pdf)
 	* RNN in the [5G book](https://arxiv.org/abs/2104.13478)
 	* [Neural CDE](https://bit.ly/NeuroCDE)
-* __Baseline__: RNN-like variational autoencoder in the criteia: error vs number of parameters 
+* __Baseline__: RNN-like variational autoencoder in the criteria: error vs. complexity (number of parameters)
 * __Roadmap__:
-* 	# Prepare data so that the reconstruction work on a basic model (like SSA)
+	* Prepare data so that the reconstruction work on a basic model (like SSA)
+	* Estimate expectation and covariance of parameters (using VAE or else, to be discussed)
+	* Reduce dimensionality, plot the error/complexity, plot the covariance
+	* Run RNN-like model, plot
+	* Assign the expectation and covariation matrix to each neuron of the model
+	* Plot the parameter space regarding covariance as its metric tensor (end of minimum part)
+	* Suggest a dimensionality reduction algorithm (naive part)
+	* Run Neuro ODE/CDE model and plot the parameter space
+	* Analyse the data distribution as the normalized flow 
+	* Suggest the parameter space modification in terms of  the normalized flow (paradoxical part, diffusion model is needed)
+	* Compare all models according to the criterion error/complexity (max part)
+	* Construct the decoder model for any pair of data like fMRI-ECoG tensor and neuro CDE (supermax part)
 * __Proposed solution__: description of the idea to implement in the project
-* __Novelty__: Continous-time models are supposed to be simple due to their periodic nature. Since they approximate the vector fields, these models are universal. The model selectoin for cotinous time is not considered now, but at the time it is acute for wearable multimedia devices for metaverce and augmented reality. 
-* __Supergoal__ To join two encoders in a dignal decoding model to reveal connection between video and fMRI, between fMRI and ECoG.
+* __Novelty__: Continous-time models are supposed to be simple due to their periodic nature. Since they approximate the vector fields, these models are universal. The model selection for the continuous time is not considered now, but at the time, it is acute for wearable multimedia devices for metaverse and augmented reality. 
+* __Supergoal__ To join two encoders in a signal decoding model to reveal the connection between video and fMRI, between fMRI and ECoG.
 * __Authors__: Expert Strijov, consultant ?
 
 
