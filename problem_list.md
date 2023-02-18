@@ -346,17 +346,17 @@ equal death and birth rates»
 * __Title__: Metric analysis of deep network space parameters
 * __Problem__: The structure of a neral work is exhaustive. The dimensionality of the parameter space should be reduced. The autiencoder in the subject of the investigation. Due to the continous-time nature of the data we analyse several types of autoencoders. We reconstruct spatial-time data, minimizing the error. 
 * __Data__: 
-	# Synthetic data sine for 2D visualizaion of the parameter distributions
-	# Accelerometer quasiperiodic data
-	# Limb movement quasiperiodic data (if any)
-	# Video periodic data (cartoon, walking persona)
-	# Video, fMRI, ECoG from the s41597-022-01173-0 
+	* Synthetic data sine for 2D visualizaion of the parameter distributions
+	* Accelerometer quasiperiodic data
+	* Limb movement quasiperiodic data (if any)
+	* Video periodic data (cartoon, walking persona)
+	* Video, fMRI, ECoG from the s41597-022-01173-0 
 * __References__: 
-	# [SSA and Hankel matrix construction](http://strijov.com/papers/Grabovoy2019QuasiPeriodicTimeSeries.pdf) or in [wiki](https://en.wikipedia.org/wiki/Singular_spectrum_analysis)
-	# [Open multimodal iEEG-fMRI dataset from naturalistic stimulation](https://www.nature.com/articles/s41597-022-01173-0)
-	# [Variational autoencoders to estimate parameters](https://arxiv.org/pdf/1606.05908.pdf)
-	# RNN in the [5G book](https://arxiv.org/abs/2104.13478)
-	# [Neural CDE](https://bit.ly/NeuroCDE)
+	* [SSA and Hankel matrix construction](http://strijov.com/papers/Grabovoy2019QuasiPeriodicTimeSeries.pdf) or in [wiki](https://en.wikipedia.org/wiki/Singular_spectrum_analysis)
+	* [Open multimodal iEEG-fMRI dataset from naturalistic stimulation](https://www.nature.com/articles/s41597-022-01173-0)
+	* [Variational autoencoders to estimate parameters](https://arxiv.org/pdf/1606.05908.pdf)
+	* RNN in the [5G book](https://arxiv.org/abs/2104.13478)
+	* [Neural CDE](https://bit.ly/NeuroCDE)
 * __Baseline__: RNN-like variational autoencoder in the criteia: error vs number of parameters 
 * __Roadmap__:
 * 	# Prepare data so that the reconstruction work on a basic model (like SSA)
