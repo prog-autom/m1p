@@ -1,9 +1,9 @@
 # Problem list
-## Roles
-* Student: wants to learn how to set problems formally, find the right literature, generate new and relevant ideas and solve problems.
-* The consultant: helps the student in using the tools, answers questions about the specialty, advises on the implementation of project, promptly responds to problems, checks  the results, puts marks. It is assumed that the consultant himself can write a satellite work on this topic. At the end of the work can be combined or completed and published in parallel. Whenever possible, it is recommended to arrange edits for the student's text to improve the style of presentation so that the student makes the edits himself. Possibly face-to-face or online.
-* Expert: the provider of the problem, the owner of the data, or the one who guarantees the novelty and relevance of the work.
 
+## Roles
+* Student's workload depends on the group and can vary from 54 hours and up.
+* A consultant is expected to make one-hour meetings weekly and promptly to student's questions. So it takes 12 to 16 hours.
+* An expert is expected to state the problem and evaluate the delivery. It takes one-hour maximum. And we guess researchers are ready to discuss their favorite problems. It creates a negative workload: for a problem the expert solves as a daily routine, some delivery appears after several months of synchronized work. The quality of the stated problem matters.
 
 ## Задача 112  
 * **Название:** Моделирование показания FMRI по видео показанному человеку
