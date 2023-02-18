@@ -336,13 +336,37 @@ equal death and birth rates»
 *  **Литература:**
     * [Гребенькова О.С., Бахтеев О., Стрижов В.В. Вариационная оптимизация модели глубокого обучения с контролем сложности // Информатика и ее применения, 2021, 15(2). PDF](https://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=ia&paperid=710&option_lang=rus)
     * [Yakovlev K. D. et al. Neural Architecture Search with Structure Complexity Control //Recent Trends in Analysis of Images, Social Networks and Texts: 10th International Conference, AIST 2021, Tbilisi, Georgia, December 16–18, 2021, Revised Selected Papers. – Cham : Springer International Publishing, 2022. – С. 207-219.](https://yahootechpulse.easychair.org/publications/preprint_download/H5MC)
-    * [FBNet: выбор архитектуры модели с учетом целевых характеристик](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_FBNet_Hardware-Aware_Efficient_ConvNet_Design_via_Differentiable_Neural_Architecture_Search_CVPR_2019_paper.pdf)
-    
+    * [FBNet: выбор архитектуры модели с учетом целевых характеристик](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_FBNet_Hardware-Aware_Efficient_ConvNet_Design_via_Differentiable_Neural_Architecture_Search_CVPR_2019_paper.pdf)  
 *  **Базовый алгоритм:** FBNet и случайный поиск подструктуры модели
 *  **Решение:** Предлагаемый метод заключается в использовании дифференцируемого алгоритма поиска архитектуры нейросети(FBNet) с контролем сложности параметров при помощи гиперсети. Гиперсеть - это модель, порождающая структуру модели в зависимости от входных параметров. В качестве параметров гиперсети предлагается использовать нормированное время работы базовых операций на целевых вычислительных ресурсах. Таким образом, полученная модель позволит адаптировать архитектуру модели для произвольного устройства.
 Новизна: предложенный метод позволяет контролировать сложность модели, в процессе поиска архитектуры без дополнительных эвристик.
 *  **Авторы:** Константин Яковлев, Олег Бахтеев
-*   
+
+## Problem 141
+* __Title__: Metric analysis of deep network space parameters
+* __Problem__: The structure of a neral work is exhaustive. The dimensionality of the parameter space should be reduced. The autiencoder in the subject of the investigation. Due to the continous-time nature of the data we analyse several types of autoencoders. We reconstruct spatial-time data, minimizing the error. 
+* __Data__: 
+	# Synthetic data sine for 2D visualizaion of the parameter distributions
+	# Accelerometer quasiperiodic data
+	# Limb movement quasiperiodic data (if any)
+	# Video periodic data (cartoon, walking persona)
+	# Video, fMRI, ECoG from the s41597-022-01173-0 
+* __References__: 
+	# [SSA and Hankel matrix construction](http://strijov.com/papers/Grabovoy2019QuasiPeriodicTimeSeries.pdf) or in [wiki](https://en.wikipedia.org/wiki/Singular_spectrum_analysis)
+	# [Open multimodal iEEG-fMRI dataset from naturalistic stimulation](https://www.nature.com/articles/s41597-022-01173-0)
+	# [Variational autoencoders to estimate parameters](https://arxiv.org/pdf/1606.05908.pdf)
+	# RNN in the [5G book](https://arxiv.org/abs/2104.13478)
+	# [Neural CDE](https://bit.ly/NeuroCDE)
+* __Baseline__: RNN-like variational autoencoder in the criteia: error vs number of parameters 
+* __Roadmap__:
+* 	# Prepare data so that the reconstruction work on a basic model (like SSA)
+* __Proposed solution__: description of the idea to implement in the project
+* __Novelty__: Continous-time models are supposed to be simple due to their periodic nature. Since they approximate the vector fields, these models are universal. The model selectoin for cotinous time is not considered now, but at the time it is acute for wearable multimedia devices for metaverce and augmented reality. 
+* __Supergoal__ To join two encoders in a dignal decoding model to reveal connection between video and fMRI, between fMRI and ECoG.
+* __Authors__: Expert Strijov, consultant ?
+
+
+   
 ## Problem template (EN)
 ## Problem 101
 * __Title__: Title
