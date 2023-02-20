@@ -20,5 +20,5 @@
 | [Горбулев Алексей](https://github.com/mr3vial) | Итеративное улучшение тематической модели с обратной связью от пользователя | [GitHub](https://github.com/intsystems/2023-Project-131) | [Алексеев] | |
 | [Орлов Алексей](https://github.com/bidinbi) | Дистилляция моделей на многодоменных выборках | [GitHub](https://github.com/intsystems/2023-Project-139) | [Грабовой] | |
 | [Веприков Андрей](https://github.com/Vepricov) | Анализ динамики многократного обучения | [GitHub](https://github.com/intsystems/2023-Project-119) | [Хританков](https://mipt.ru/education/chairs/parallelcomputing/persons/chritankov.php) | |
-
+| [Никитина Мария](https://github.com/NikitinaMaria) | Автоматическое выделение терминов для тематического моделирования | [GitHub](https://github.com/intsystems/2023-Project-130) | [Воронцов]
  
