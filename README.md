@@ -22,3 +22,4 @@
 | [Веприков Андрей](https://github.com/Vepricov) | Анализ динамики многократного обучения | [GitHub](https://github.com/intsystems/2023-Project-119) | [Хританков](https://mipt.ru/education/chairs/parallelcomputing/persons/chritankov.php) | |
 | [Никитина Мария](https://github.com/NikitinaMaria) | Автоматическое выделение терминов для тематического моделирования | [GitHub](https://github.com/intsystems/2023-Project-130) | [Воронцов]
 | [Богданов Александр](https://github.com/Dd0-s) | Моделирование динамики физических систем с помощью Physics-Informed Neural Networks | [GitHub](https://github.com/intsystems/2023-Project-114) | [Панченко]
+| [Швейкин Денис](https://github.com/Dentikka) | Stochastic Newton with Arbitrary Sampling | [Github](https://github.com/intsystems/2023-Project-136) | [Исламов]
