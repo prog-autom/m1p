@@ -24,3 +24,6 @@
 | [Богданов Александр](https://github.com/Dd0-s) | Моделирование динамики физических систем с помощью Physics-Informed Neural Networks | [GitHub](https://github.com/intsystems/2023-Project-114) | [Панченко]
 | [Швейкин Денис](https://github.com/Dentikka) | Stochastic Newton with Arbitrary Sampling | [Github](https://github.com/intsystems/2023-Project-136) | [Исламов]
 | [Овчаренко Кирилл](https://github.com/kovcharenko51) | Binary Neural Networks in img-to-img tasks | [Github](https://github.com/intsystems/2023-Project-137) | [Жариков]
+| [Крейнин Матвей](https://github.com/kreininmv) | Methods with preconditioning with weight decay regularization | [Github](https://github.com/kreininmv/2023-Project-143) | [Безносиков]
+
+https://github.com/kreininmv/2023-Project-143
