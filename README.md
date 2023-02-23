@@ -28,4 +28,3 @@
 | [Баринов Никита](https://github.com/rybinsky) | Дистилляция моделей и данных | [Github](https://github.com/intsystems/2023-Project-134) | [Филатов]
 | [Троешестова Лидия](https://github.com/36ova) | Снижение размерности пространства в задаче генеративного моделирования с помощью обратимых моделей. | [Github](https://github.com/intsystems/2023-Project-122) | [Исаченко]
 
-https://github.com/kreininmv/2023-Project-143
