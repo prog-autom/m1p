@@ -28,4 +28,4 @@
 | [Баринов Никита](https://github.com/rybinsky) | Дистилляция моделей и данных | [Github](https://github.com/intsystems/2023-Project-134) | [Филатов]
 | [Троешестова Лидия](https://github.com/36ova) | Снижение размерности пространства в задаче генеративного моделирования с помощью обратимых моделей. | [Github](https://github.com/intsystems/2023-Project-122) | [Исаченко]
 | [Бабкин Пётр](https://github.com/petr-parker) | Differentiable algorithm for searching ensembles of deep learning models with diversity control | [Github](https://github.com/intsystems/2023-Project-120), [LinkReview](https://docs.google.com/document/d/1-P76pFjZ2E4BIjLVU8KY1NC7g1Qt-YFh6zX-V67FTUU/edit?usp=sharing) | [Яковлев, Петрушина]
-| [Михаил Олейник](https://github.com/Ganddalf) | Дистилляция знаний в глубоких сетях и выравнивание структур моделей. | [Github](https://github.com/intsystems/2023-Project-115) | [Горпинич]
+| [Олейник Михаил](https://github.com/Ganddalf) | Дистилляция знаний в глубоких сетях и выравнивание структур моделей. | [Github](https://github.com/intsystems/2023-Project-115) | [Горпинич]
