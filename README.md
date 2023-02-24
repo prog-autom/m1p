@@ -32,3 +32,4 @@
 | [Ильгам Латыпов](https://github.com/xxamxam) | Поиск зависимостей биомеханических системах . | [Github](https://github.com/intsystems/2023-Project-117) | [Стрижов, Владимиров]
 | [Охотников Никита](https://github.com/Wayfarer123) | Ускорение семплирования из диффузионных моделей с помощью состязательных сетей. | [Github](https://github.com/intsystems/2023-Project-124) | [Исаченко] |
 | [Игнашин Игорь](https://github.com/ThunderstormXX) | Ранжирование научных статей для полуавтоматического реферирования. | [Github](https://github.com/intsystems/2023-Project-132) | [Крыжановская , Воронцов] |
+| [Седова Анна](https://github.com/Anya1234) | Post Training Quantization. Flexible continuous modification for SOTA post training quantization methods to make them lossless. | [Github](https://github.com/intsystems/2023-Project-138) | [Жариков] |
