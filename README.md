@@ -31,4 +31,4 @@
 | [Олейник Михаил](https://github.com/Ganddalf) | Дистилляция знаний в глубоких сетях и выравнивание структур моделей. | [Github](https://github.com/intsystems/2023-Project-115) | [Горпинич]
 | [Ильгам Латыпов](https://github.com/xxamxam) | Поиск зависимостей биомеханических системах . | [Github](https://github.com/intsystems/2023-Project-117) | [Стрижов, Владимиров]
 | [Охотников Никита](https://github.com/Wayfarer123) | Ускорение семплирования из диффузионных моделей с помощью состязательных сетей. | [Github](https://github.com/intsystems/2023-Project-124) | [Исаченко] |
-| [Игнашин Игорь](https://github.com/ThunderstormXX) | Ранжирование научных статей для полуавтоматического реферирования. | [Github](https://github.com/intsystems/2023-Project-132) | [] |
+| [Игнашин Игорь](https://github.com/ThunderstormXX) | Ранжирование научных статей для полуавтоматического реферирования. | [Github](https://github.com/intsystems/2023-Project-132) | [Крыжановская , Воронцов] |
