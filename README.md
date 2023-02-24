@@ -30,3 +30,4 @@
 | [Бабкин Пётр](https://github.com/petr-parker) | Differentiable algorithm for searching ensembles of deep learning models with diversity control | [Github](https://github.com/intsystems/2023-Project-120), [LinkReview](https://docs.google.com/document/d/1-P76pFjZ2E4BIjLVU8KY1NC7g1Qt-YFh6zX-V67FTUU/edit?usp=sharing) | [Яковлев, Петрушина]
 | [Олейник Михаил](https://github.com/Ganddalf) | Дистилляция знаний в глубоких сетях и выравнивание структур моделей. | [Github](https://github.com/intsystems/2023-Project-115) | [Горпинич]
 | [Ильгам Латыпов](https://github.com/xxamxam) | Поиск зависимостей биомеханических системах . | [Github](https://github.com/intsystems/2023-Project-117) | [Стрижов, Владимиров]
+| [Охотников Никита](https://github.com/Wayfarer123) | Ускорение семплирования из диффузионных моделей с помощью состязательных сетей . | [Github](https://github.com/intsystems/2023-Project-124) | [Исаченко] |
