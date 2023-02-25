@@ -35,3 +35,4 @@
 | [Седова Анна](https://github.com/Anya1234) | Post Training Quantization. Flexible continuous modification for SOTA post training quantization methods to make them lossless. | [Github](https://github.com/intsystems/2023-Project-138) | [Жариков] |
 |[Сёмкин Кирилл](https://github.com/sem-k32)| Investigation of lockdown restrictions in SIR+ model  | [GitHub](https://github.com/intsystems/2023-Project-125), [LinkReview](https://github.com/intsystems/2023-Project-125/blob/main/docs/LinkReview.md) | [Бишук](https://github.com/ApostolAnt) |
 |[Вознюк Анастасия](https://github.com/natriistorm)| Detection of style change in machine-generated texts  | [GitHub](https://github.com/intsystems/2023-Project-126) | [Грабовой](https://github.com/andriygav) |
+| [Бородин Савелий](https://github.com/BorONE) | Adaptation of the architecture of the deep learning model with performance control | [GitHub](https://github.com/intsystems/2023-Problem-140) | [Yakovlev] |
