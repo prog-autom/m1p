@@ -21,7 +21,7 @@
 | [Орлов Алексей](https://github.com/bidinbi) | Дистилляция моделей на многодоменных выборках | [GitHub](https://github.com/intsystems/2023-Project-139) | [Грабовой] | |
 | [Веприков Андрей](https://github.com/Vepricov) | Анализ динамики многократного обучения | [GitHub](https://github.com/intsystems/2023-Project-119) | [Хританков](https://mipt.ru/education/chairs/parallelcomputing/persons/chritankov.php) | |
 | [Никитина Мария](https://github.com/NikitinaMaria) | Автоматическое выделение терминов для тематического моделирования | [GitHub](https://github.com/intsystems/2023-Project-130) | [Воронцов]
-| [Богданов Александр](https://github.com/Dd0-s) | Моделирование динамики физических систем с помощью Physics-Informed Neural Networks | [GitHub](https://github.com/intsystems/2023-Project-114) | [Панченко]
+| [Богданов Александр](https://github.com/Dd0-s) | Моделирование динамики физических систем с помощью Physics-Informed Neural Networks | [GitHub](https://github.com/intsystems/2023-Project-114) | [Панченко](https://github.com/PanchenkoSviatoslav)
 | [Швейкин Денис](https://github.com/Dentikka) | Stochastic Newton with Arbitrary Sampling | [Github](https://github.com/intsystems/2023-Project-136) | [Исламов]
 | [Овчаренко Кирилл](https://github.com/kovcharenko51) | Binary Neural Networks in img-to-img tasks | [Github](https://github.com/intsystems/2023-Project-137) | [Жариков]
 | [Крейнин Матвей](https://github.com/kreininmv) | Methods with preconditioning with weight decay regularization | [Github](https://github.com/kreininmv/2023-Project-143) | [Безносиков]
