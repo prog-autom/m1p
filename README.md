@@ -37,3 +37,4 @@
 |[Вознюк Анастасия](https://github.com/natriistorm)| Detection of style change in machine-generated texts  | [GitHub](https://github.com/intsystems/2023-Project-126) | [Грабовой](https://github.com/andriygav) |
 | [Бородин Савелий](https://github.com/BorONE) | Adaptation of the architecture of the deep learning model with performance control | [GitHub](https://github.com/intsystems/2023-Problem-140) | [Yakovlev] |
 | [Подзорова Полина](https://github.com/Polina18) | Модели диффузии в задаче генерации структуры молекулы с оптимальной энергией | [GitHub](https://github.com/intsystems/2023-Project-133) | [Никитин] |
+| [Дорин Даниил](https://github.com/Daniilmipt007) | Моделирование показания FMRI по видео показанному человеку | [GitHub](https://github.com/intsystems/2023-Project-112) | [Грабовой] |
