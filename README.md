@@ -24,7 +24,9 @@
 | [Богданов Александр](https://github.com/Dd0-s) | Моделирование динамики физических систем с помощью Physics-Informed Neural Networks | [GitHub](https://github.com/intsystems/2023-Project-114), [LinkReview](https://docs.google.com/document/d/1y9-YTKNk3FN0NBkYOvUYCJShHScMVlRRnUT7l89_aNI/edit?usp=share_link) | [Панченко](https://github.com/PanchenkoSviatoslav)
 | [Швейкин Денис](https://github.com/Dentikka) | Stochastic Newton with Arbitrary Sampling | [Github](https://github.com/intsystems/2023-Project-136) | [Исламов]
 | [Овчаренко Кирилл](https://github.com/kovcharenko51) | Binary Neural Networks in img-to-img tasks | [Github](https://github.com/intsystems/2023-Project-137) | [Жариков]
-| [Крейнин Матвей](https://github.com/kreininmv) | Methods with preconditioning with weight decay regularization | [Github](https://github.com/kreininmv/2023-Project-143) | [Безносиков]
+| [Крейнин Матвей](https://github.com/kreininmv) | Methods with preconditioning with weight decay regularization | [Github](https://github.com/kreininmv/2023-Project-143), [LinkReview](https://docs.google.com/document/d/19Jd70uCRnHX2hRtTGOQ2hPqgiPkesa63oFspGRNPFEU/edit?usp=sharing) | [Безносиков] 
+
+
 | [Баринов Никита](https://github.com/rybinsky) | Дистилляция моделей и данных | [Github](https://github.com/intsystems/2023-Project-134) | [Филатов]
 | [Троешестова Лидия](https://github.com/36ova) | Снижение размерности пространства в задаче генеративного моделирования с помощью обратимых моделей. | [Github](https://github.com/intsystems/2023-Project-122) | [Исаченко]
 | [Бабкин Пётр](https://github.com/petr-parker) | Differentiable algorithm for searching ensembles of deep learning models with diversity control | [Github](https://github.com/intsystems/2023-Project-120), [LinkReview](https://docs.google.com/document/d/1-P76pFjZ2E4BIjLVU8KY1NC7g1Qt-YFh6zX-V67FTUU/edit?usp=sharing) | [Яковлев, Петрушина]
