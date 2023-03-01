@@ -1,6 +1,5 @@
 # My first scientific paper, 2023
 
-[Problem selection form](https://docs.google.com/forms/d/e/1FAIpQLSfB6E0v7yqutmHLFjr46biqnqAg-6EKdSvD70UsGQTvWUAFkg/viewform?usp=sf_link)
 
 [Main page course](https://m1p.org)
 
